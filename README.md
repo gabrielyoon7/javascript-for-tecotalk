@@ -12,6 +12,6 @@
 ### 목차
 
 - [ ] 객체 리터럴
-  - object-basic.js
+  - object/object-basic.js
 - [ ] 클래스란 무엇인가?
 - [ ] 상속
