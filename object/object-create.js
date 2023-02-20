@@ -41,7 +41,7 @@ cat['type'] = '귀여움';
 console.log(cat); // { name: '러시안 블루', type: '귀여움' }
 
 // 프로퍼티 동적 생성(ES6)
-console.log('>> 프로퍼티 동적 생성(ES6)');
+console.log('>> 프로퍼티 키 동적 생성(ES6)');
 const dog = {
   [`name${1 + 2}`]: '말티즈',
 };
