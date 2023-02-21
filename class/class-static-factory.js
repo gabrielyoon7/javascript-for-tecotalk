@@ -12,4 +12,4 @@ class Car {
 
 const car = Car.createCar();
 
-console.log(car); // car 객체
+console.log(car); // Car { name: '가브리엘', date: 2023-02-21T18:03:43.162Z }
