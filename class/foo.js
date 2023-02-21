@@ -15,6 +15,7 @@ Car.prototype.move = function () {
 };
 
 const car1 = new Car('Eagle');
+console.log(car1.__proto__);
 
 console.log(car1);
 car1.move();
