@@ -1,7 +1,11 @@
 /* eslint-disable max-classes-per-file */
 class Animal {
   constructor(name) {
+    console.log(1);
+    console.log(this); // Dog {}
     this.name = name;
+    console.log(2);
+    console.log(this); // Dog { name: '뽀삐' }
   }
 
   speak() {
@@ -12,7 +16,11 @@ class Animal {
 class Dog extends Animal {
   constructor(name, breed) {
     super(name);
+    console.log(3);
+    console.log(this); // Dog { name: '뽀삐' }
     this.breed = breed;
+    console.log(4);
+    console.log(this); // Dog { name: '뽀삐', breed: '말티즈' }
   }
 
   speak() {
