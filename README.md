@@ -3,7 +3,9 @@
 ### 안녕하세요
 
 2월 23일 FE 첫 발표였던 객체와 클래스 맡았던 가브리엘입니다.
+
 [테코톡을 준비하면서 함께 작성한 글](https://leirbag.tistory.com/130)과 함께 보시는 것을 추천드립니다.
+
 [발표에 사용한 슬라이드](https://github.com/gabrielyoon7/javascript-for-tecotalk/blob/master/google-slides.pdf)도 함께 첨부하였으니 참고바랍니다.
 
 질문은 [메일](mailto:gabrielyoon7@gmail.com)이나 슬랙으로 보내주시면 감사하겠습니다.
